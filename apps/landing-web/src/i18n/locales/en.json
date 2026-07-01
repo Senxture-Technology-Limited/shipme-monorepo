@@ -1,0 +1,318 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "getQuote": "Get Quote"
+  },
+  "home": {
+    "hero": {
+      "slide1": {
+        "title": "Fast & Reliable Shipping Services in Hong Kong",
+        "subtitle": "Your trusted partner for local and international shipping. Door-to-door delivery with real-time tracking."
+      },
+      "slide2": {
+        "title": "Express Delivery Across Hong Kong",
+        "subtitle": "Same-day and next-day delivery options. Get your packages where they need to be, fast."
+      },
+      "slide3": {
+        "title": "Global Shipping Solutions",
+        "subtitle": "Ship to over 200 countries worldwide. Customs clearance and tracking included."
+      },
+      "shipNow": "Ship Now",
+      "trackPackage": "Track Package"
+    },
+    "features": {
+      "fastDelivery": "Fast Delivery",
+      "fastDeliveryDesc": "Express shipping within 24-48 hours",
+      "secureHandling": "Secure Handling",
+      "secureHandlingDesc": "Your packages are in safe hands",
+      "realTimeTracking": "Real-time Tracking",
+      "realTimeTrackingDesc": "Track your shipment anytime, anywhere",
+      "allPackageSizes": "All Package Sizes",
+      "allPackageSizesDesc": "From small parcels to large freight"
+    },
+    "usp": {
+      "1": {
+        "title1": "Your Cargo,",
+        "title2": "Our Responsibility",
+        "desc1": "When you need to ship cargo, would you choose a company that only provides basic services, or one that takes care of your cargo from start to finish? If you want the latter, then SHIPME is your best choice.",
+        "desc2": "SHIPME is a third-party logistics company based in Hong Kong, specializing in providing quality and comprehensive shipping services for small and medium-sized enterprises in Hong Kong. Our experienced and professional team not only helps you ship, store, package, and handle various cargo, but also provides professional advice, customized solutions, and real-time tracking.",
+        "desc3": "We treat your cargo as our responsibility, and we will do our best to ensure their safety, speed, and efficiency. No matter what you need to ship, where to, or how much, we can meet your needs. Contact us and let us provide you with the best logistics services!"
+      }
+    },
+    "partners": {
+      "title": "Our Trusted Partners"
+    },
+    "tracking": {
+      "title": "Track Your Shipment",
+      "subtitle": "Enter your tracking number to get real-time updates",
+      "placeholder": "Enter tracking number",
+      "trackNow": "Track Now"
+    },
+    "pricing": {
+      "title": "Transparent Pricing",
+      "subtitle": "No hidden fees. Simple and affordable rates.",
+      "basic": {
+        "title": "Basic",
+        "price": "$50",
+        "perShipment": "/shipment",
+        "feature1": "Local delivery (HK)",
+        "feature2": "Up to 5kg",
+        "feature3": "Standard tracking",
+        "feature4": "2-3 day delivery",
+        "button": "Get Started"
+      },
+      "professional": {
+        "title": "Professional",
+        "price": "$120",
+        "popular": "Popular",
+        "feature1": "International shipping",
+        "feature2": "Up to 20kg",
+        "feature3": "Priority tracking",
+        "feature4": "24-48 hour delivery",
+        "feature5": "Insurance included",
+        "button": "Get Started"
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "price": "Custom",
+        "feature1": "Freight services",
+        "feature2": "Unlimited weight",
+        "feature3": "Dedicated support",
+        "feature4": "Volume discounts",
+        "feature5": "Custom solutions",
+        "button": "Contact Sales"
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About SHIPME",
+      "subtitle": "Leading the way in shipping and logistics solutions across Hong Kong and beyond."
+    },
+    "story": {
+      "title": "Our Story",
+      "para1": "Founded in 2010, ShipMeHK has grown from a small local courier service to one of Hong Kong's most trusted shipping and logistics providers. Our commitment to excellence and customer satisfaction has been the driving force behind our success.",
+      "para2": "We pride ourselves on our ability to deliver packages safely, quickly, and efficiently. Whether you're shipping locally within Hong Kong or internationally to over 200 countries, we have the expertise and infrastructure to meet your needs.",
+      "para3": "Our team of dedicated professionals works around the clock to ensure your packages arrive on time, every time. We leverage the latest technology and maintain partnerships with leading global carriers to provide you with the best possible service."
+    },
+    "stats": {
+      "years": "Years of Experience",
+      "countries": "Countries Served",
+      "packages": "Packages Delivered",
+      "satisfaction": "Customer Satisfaction"
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "customerFirst": {
+        "title": "Customer First",
+        "desc": "Your satisfaction is our top priority. We go above and beyond to meet your needs."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "desc": "We maintain the highest standards in every aspect of our service delivery."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "desc": "Count on us to deliver on our promises, on time, every single time."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "desc": "We continuously improve our services with cutting-edge technology."
+      }
+    },
+    "cta": {
+      "title": "Join Our Journey",
+      "subtitle": "Be part of Hong Kong's most reliable shipping network. Experience the difference of working with true professionals.",
+      "button": "Get Started Today"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive shipping solutions tailored to your needs"
+    },
+    "main": {
+      "localDelivery": {
+        "title": "Local Delivery",
+        "desc": "Same-day and next-day delivery across Hong Kong. Perfect for urgent shipments and local businesses.",
+        "feature1": "Same-day delivery available",
+        "feature2": "Scheduled pickup",
+        "feature3": "Door-to-door service",
+        "feature4": "Proof of delivery"
+      },
+      "international": {
+        "title": "International Shipping",
+        "desc": "Worldwide shipping to over 200 countries. Customs clearance assistance and competitive rates.",
+        "feature1": "Express & economy options",
+        "feature2": "Customs documentation",
+        "feature3": "Insurance available",
+        "feature4": "Multi-carrier network"
+      },
+      "freight": {
+        "title": "Freight Services",
+        "desc": "Large cargo and freight solutions for businesses. Sea and air freight options available.",
+        "feature1": "LCL & FCL shipping",
+        "feature2": "Air freight",
+        "feature3": "Warehousing solutions",
+        "feature4": "Dedicated account manager"
+      }
+    },
+    "why": {
+      "title": "Why Choose Us",
+      "subtitle": "Experience the ShipMeHK difference",
+      "fast": {
+        "title": "Fast & Reliable",
+        "desc": "Express delivery options with guaranteed on-time arrival. Your packages delivered when you need them."
+      },
+      "global": {
+        "title": "Global Network",
+        "desc": "Access to worldwide shipping with partnerships across all major carriers and logistics providers."
+      },
+      "rates": {
+        "title": "Competitive Rates",
+        "desc": "Transparent pricing with no hidden fees. Get the best value for your shipping needs."
+      }
+    },
+    "additional": {
+      "title": "Additional Services",
+      "subtitle": "Complete logistics solutions for your business",
+      "tracking": {
+        "title": "Package Tracking",
+        "desc": "Real-time tracking with notifications at every step of the delivery process."
+      },
+      "insurance": {
+        "title": "Insurance Coverage",
+        "desc": "Comprehensive insurance options to protect your valuable shipments."
+      },
+      "customs": {
+        "title": "Customs Clearance",
+        "desc": "Expert assistance with customs documentation and international regulations."
+      },
+      "warehousing": {
+        "title": "Warehousing",
+        "desc": "Secure storage facilities with inventory management services."
+      },
+      "packaging": {
+        "title": "Packaging Services",
+        "desc": "Professional packaging to ensure your items arrive safely."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "desc": "Round-the-clock customer service to assist with any questions or concerns."
+      }
+    },
+    "cta": {
+      "title": "Ready to Ship?",
+      "subtitle": "Get started with ShipMeHK today and experience premium shipping services.",
+      "button": "Request a Quote"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with our team. We're here to help with all your shipping needs."
+    },
+    "info": {
+      "title": "Get In Touch",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "addressLine1": "123 Central Street",
+      "addressLine2": "Central, Hong Kong",
+      "hours": "Business Hours",
+      "hoursWeekday": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "hoursSaturday": "Saturday: 9:00 AM - 1:00 PM",
+      "hoursSunday": "Sunday: Closed"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+852 1234 5678",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your shipping needs...",
+      "submit": "Send Message"
+    },
+    "visit": {
+      "title": "Visit Our Office",
+      "subtitle": "Come see us in person at our Hong Kong headquarters"
+    },
+    "cta": {
+      "title": "Need Immediate Assistance?",
+      "subtitle": "Our customer service team is available 24/7 to help with urgent shipping needs.",
+      "button": "Call Now: +852 1234 5678"
+    }
+  },
+  "footer": {
+    "tagline": "Your trusted shipping partner in Hong Kong.",
+    "services": "Services",
+    "localDelivery": "Local Delivery",
+    "international": "International Shipping",
+    "freight": "Freight Services",
+    "tracking": "Package Tracking",
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact": "Contact",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ",
+    "copyright": " ShipMeHK. All rights reserved."
+  },
+  "quote": {
+    "hero": {
+      "title": "Get Instant Quote",
+      "subtitle": "Compare prices from UPS, FedEx, and DHL instantly"
+    },
+    "form": {
+      "title": "Shipment Details",
+      "fromCountry": "From Country",
+      "toCountry": "To Country",
+      "selectDestination": "Select destination country",
+      "packageType": "Package Type",
+      "document": "Document",
+      "parcel": "Parcel",
+      "freight": "Freight",
+      "packages": "Packages",
+      "package": "Package",
+      "addPackage": "Add Package",
+      "quantity": "Quantity",
+      "weight": "Weight",
+      "length": "Length",
+      "width": "Width",
+      "height": "Height",
+      "name": "Your Name",
+      "email": "Email Address",
+      "getQuote": "Get Quote",
+      "calculating": "Calculating...",
+      "fillForm": "Fill out the form to get instant quotes from UPS, FedEx, and DHL"
+    },
+    "results": {
+      "title": "Your Quote is Ready!",
+      "subtitle": "Compare prices from our trusted carrier partners",
+      "bestPrice": "Best Price",
+      "estimated": "Estimated Total",
+      "selectCarrier": "Select This Carrier",
+      "newQuote": "Get New Quote",
+      "note": "Note:",
+      "noteText": "Prices are estimates and may vary based on actual dimensions, customs fees, and additional services.",
+      "features": {
+        "tracking": "Real-time tracking",
+        "insurance": "Insurance included",
+        "delivery": "3-5 business days delivery"
+      }
+    }
+  }
+}

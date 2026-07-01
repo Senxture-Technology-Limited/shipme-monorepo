@@ -1,0 +1,318 @@
+{
+  "nav": {
+    "home": "主页",
+    "about": "关于我们",
+    "services": "我们的服务",
+    "contact": "联系我们",
+    "getQuote": "获取报价"
+  },
+  "home": {
+    "hero": {
+      "slide1": {
+        "title": "香港快速可靠的物流服务",
+        "subtitle": "您值得信赖的本地和国际物流合作伙伴。提供门到门送货及实时追踪。"
+      },
+      "slide2": {
+        "title": "香港全境速递服务",
+        "subtitle": "提供当日及次日送达服务。让您的包裹快速送达目的地。"
+      },
+      "slide3": {
+        "title": "全球物流解决方案",
+        "subtitle": "运送至全球超过200个国家。包括清关及追踪服务。"
+      },
+      "shipNow": "立即寄送",
+      "trackPackage": "追踪包裹"
+    },
+    "features": {
+      "fastDelivery": "快速送达",
+      "fastDeliveryDesc": "24-48小时内快递送达",
+      "secureHandling": "安全处理",
+      "secureHandlingDesc": "您的包裹安全可靠",
+      "realTimeTracking": "实时追踪",
+      "realTimeTrackingDesc": "随时随地追踪您的货件",
+      "allPackageSizes": "各种包裹尺寸",
+      "allPackageSizesDesc": "从小包裹到大型货运"
+    },
+    "usp": {
+      "1": {
+        "title1": "您的货物",
+        "title2": "我们的责任",
+        "desc1": "当您需要运送货物时，您会选择只提供基本服务的公司，还是能够照顾您的货物从头到尾的公司？如果您想要后者，那么 SHIPME 就是您的最佳选择。",
+        "desc2": "SHIPME 是一家位于香港的第三方物流公司，专注于为香港的中小企业提供优质和全方位的运输服务。我们的经验丰富且专业的团队，不仅能帮助您运送、储存、包装和处理各种货物，还能为您提供专业建议、定制化方案和实时追踪。",
+        "desc3": "我们把您的货物视为我们的责任，我们会尽力保证它们的安全、快速和高效。无论您需要运送什么、到哪里、多少，我们都能满足您的需求。联系我们，让我们为您提供最优质的物流服务！"
+      }
+    },
+    "partners": {
+      "title": "我们的合作伙伴"
+    },
+    "tracking": {
+      "title": "追踪您的货件",
+      "subtitle": "输入追踪编号以获取实时更新",
+      "placeholder": "输入追踪编号",
+      "trackNow": "立即追踪"
+    },
+    "pricing": {
+      "title": "透明定价",
+      "subtitle": "没有隐藏费用。简单实惠的价格。",
+      "basic": {
+        "title": "基本方案",
+        "price": "$50",
+        "perShipment": "/次运送",
+        "feature1": "本地配送（香港）",
+        "feature2": "最多5公斤",
+        "feature3": "标准追踪",
+        "feature4": "2-3日送达",
+        "button": "开始使用"
+      },
+      "professional": {
+        "title": "专业方案",
+        "price": "$120",
+        "popular": "最受欢迎",
+        "feature1": "国际运送",
+        "feature2": "最多20公斤",
+        "feature3": "优先追踪",
+        "feature4": "24-48小时送达",
+        "feature5": "包含保险",
+        "button": "开始使用"
+      },
+      "enterprise": {
+        "title": "企业方案",
+        "price": "自定义",
+        "feature1": "货运服务",
+        "feature2": "无重量限制",
+        "feature3": "专属支持",
+        "feature4": "大量折扣",
+        "feature5": "自定义解决方案",
+        "button": "联系销售"
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "关于 SHIPME",
+      "subtitle": "引领香港及全球的物流解决方案。"
+    },
+    "story": {
+      "title": "我们的故事",
+      "para1": "成立于2010年，ShipMeHK从一家小型本地速递公司发展成为香港最值得信赖的物流供应商之一。我们对卓越和客户满意度的承诺一直是我们成功的推动力。",
+      "para2": "我们为能够安全、快速、高效地交付包裹而感到自豪。无论您是在香港本地运送还是运送到全球200多个国家，我们都有专业知识和基础设施来满足您的需求。",
+      "para3": "我们的专业团队全天候工作，确保您的包裹准时送达。我们利用最新技术，并与领先的全球承运商保持合作关系，为您提供最优质的服务。"
+    },
+    "stats": {
+      "years": "年经验",
+      "countries": "服务国家",
+      "packages": "已送达包裹",
+      "satisfaction": "客户满意度"
+    },
+    "values": {
+      "title": "我们的价值观",
+      "subtitle": "指导我们一切行动的原则",
+      "customerFirst": {
+        "title": "客户至上",
+        "desc": "您的满意是我们的首要任务。我们竭尽全力满足您的需求。"
+      },
+      "excellence": {
+        "title": "卓越",
+        "desc": "我们在服务交付的各个方面都保持最高标准。"
+      },
+      "reliability": {
+        "title": "可靠",
+        "desc": "相信我们能够兑现承诺，每次都准时交付。"
+      },
+      "innovation": {
+        "title": "创新",
+        "desc": "我们不断利用尖端技术改进我们的服务。"
+      }
+    },
+    "cta": {
+      "title": "加入我们的旅程",
+      "subtitle": "成为香港最可靠物流网络的一员。体验与真正专业人士合作的不同。",
+      "button": "立即开始"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "我们的服务",
+      "subtitle": "为您量身定制的全面物流解决方案"
+    },
+    "main": {
+      "localDelivery": {
+        "title": "本地配送",
+        "desc": "香港全境当日及次日送达。非常适合紧急货件和本地企业。",
+        "feature1": "提供当日送达",
+        "feature2": "预约取件",
+        "feature3": "门到门服务",
+        "feature4": "送货证明"
+      },
+      "international": {
+        "title": "国际运送",
+        "desc": "运送至全球200多个国家。提供清关协助和具竞争力的价格。",
+        "feature1": "快递和经济选项",
+        "feature2": "清关文件",
+        "feature3": "可购买保险",
+        "feature4": "多承运商网络"
+      },
+      "freight": {
+        "title": "货运服务",
+        "desc": "为企业提供大型货物和货运解决方案。提供海运和空运选项。",
+        "feature1": "拼箱和整柜运输",
+        "feature2": "空运",
+        "feature3": "仓储解决方案",
+        "feature4": "专属客户经理"
+      }
+    },
+    "why": {
+      "title": "为什么选择我们",
+      "subtitle": "体验 ShipMeHK 的不同",
+      "fast": {
+        "title": "快速可靠",
+        "desc": "快递选项保证准时送达。您的包裹在需要时送达。"
+      },
+      "global": {
+        "title": "全球网络",
+        "desc": "与所有主要承运商和物流供应商建立合作关系，实现全球运送。"
+      },
+      "rates": {
+        "title": "具竞争力的价格",
+        "desc": "透明定价，没有隐藏费用。为您的运送需求获得最佳价值。"
+      }
+    },
+    "additional": {
+      "title": "附加服务",
+      "subtitle": "为您的业务提供完整的物流解决方案",
+      "tracking": {
+        "title": "包裹追踪",
+        "desc": "实时追踪，在交付过程的每一步都有通知。"
+      },
+      "insurance": {
+        "title": "保险保障",
+        "desc": "全面的保险选项，保护您的贵重货件。"
+      },
+      "customs": {
+        "title": "清关",
+        "desc": "提供清关文件和国际法规方面的专业协助。"
+      },
+      "warehousing": {
+        "title": "仓储",
+        "desc": "安全的存储设施，配备库存管理服务。"
+      },
+      "packaging": {
+        "title": "包装服务",
+        "desc": "专业包装，确保您的物品安全送达。"
+      },
+      "support": {
+        "title": "全天候支持",
+        "desc": "全天候客户服务，协助解决任何问题或疑虑。"
+      }
+    },
+    "cta": {
+      "title": "准备好寄送了吗？",
+      "subtitle": "立即开始使用 ShipMeHK，体验优质的物流服务。",
+      "button": "申请报价"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "联系我们",
+      "subtitle": "与我们的团队联系。我们随时为您提供所有物流需求的协助。"
+    },
+    "info": {
+      "title": "联系信息",
+      "phone": "电话",
+      "email": "电邮",
+      "address": "地址",
+      "addressLine1": "中环街123号",
+      "addressLine2": "香港中环",
+      "hours": "营业时间",
+      "hoursWeekday": "星期一至五：上午9:00 - 下午6:00",
+      "hoursSaturday": "星期六：上午9:00 - 下午1:00",
+      "hoursSunday": "星期日：休息"
+    },
+    "form": {
+      "title": "发送消息给我们",
+      "name": "您的姓名",
+      "namePlaceholder": "张三",
+      "email": "电邮地址",
+      "emailPlaceholder": "zhang@example.com",
+      "phone": "电话号码",
+      "phonePlaceholder": "+852 1234 5678",
+      "subject": "主题",
+      "subjectPlaceholder": "我们如何协助您？",
+      "message": "消息",
+      "messagePlaceholder": "告诉我们更多关于您的物流需求...",
+      "submit": "发送消息"
+    },
+    "visit": {
+      "title": "参观我们的办公室",
+      "subtitle": "亲临我们位于香港的总部"
+    },
+    "cta": {
+      "title": "需要即时协助？",
+      "subtitle": "我们的客户服务团队全天候为您处理紧急物流需求。",
+      "button": "立即致电：+852 1234 5678"
+    }
+  },
+  "footer": {
+    "tagline": "您值得信赖的香港物流合作伙伴。",
+    "services": "服务",
+    "localDelivery": "本地配送",
+    "international": "国际运送",
+    "freight": "货运服务",
+    "tracking": "包裹追踪",
+    "company": "公司",
+    "about": "关于我们",
+    "careers": "职业机会",
+    "blog": "博客",
+    "contact": "联系",
+    "support": "支持",
+    "helpCenter": "帮助中心",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "faq": "常见问题",
+    "copyright": " ShipMeHK. 版权所有。"
+  },
+  "quote": {
+    "hero": {
+      "title": "即时获取报价",
+      "subtitle": "即时比较 UPS、FedEx 和 DHL 的价格"
+    },
+    "form": {
+      "title": "运送详情",
+      "fromCountry": "寄件国家",
+      "toCountry": "收件国家",
+      "selectDestination": "选择目的地国家",
+      "packageType": "包裹类型",
+      "document": "文件",
+      "parcel": "包裹",
+      "freight": "货运",
+      "packages": "包裹",
+      "package": "包裹",
+      "addPackage": "新增包裹",
+      "quantity": "数量",
+      "weight": "重量",
+      "length": "长度",
+      "width": "宽度",
+      "height": "高度",
+      "name": "您的姓名",
+      "email": "电邮地址",
+      "getQuote": "获取报价",
+      "calculating": "计算中...",
+      "fillForm": "填写表格以获取 UPS、FedEx 和 DHL 的即时报价"
+    },
+    "results": {
+      "title": "您的报价已准备好！",
+      "subtitle": "比较我们信赖的承运商合作伙伴的价格",
+      "bestPrice": "最佳价格",
+      "estimated": "预计总额",
+      "selectCarrier": "选择此承运商",
+      "newQuote": "获取新报价",
+      "note": "注意：",
+      "noteText": "价格为估计值，可能会根据实际尺寸、关税和额外服务而有所不同。",
+      "features": {
+        "tracking": "实时追踪",
+        "insurance": "包含保险",
+        "delivery": "3-5个工作日送达"
+      }
+    }
+  }
+}

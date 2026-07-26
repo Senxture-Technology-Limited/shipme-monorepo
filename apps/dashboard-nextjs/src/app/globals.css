@@ -1,0 +1,160 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #10213a;
+  --muted: #64748b;
+  --line: #dfe6ee;
+  --canvas: #f3f6f9;
+  --surface: #ffffff;
+  --navy: #001d4a;
+  --navy-light: #002d5f;
+  --orange: #f97316;
+  --orange-dark: #ea580c;
+  --success: #15803d;
+  --warning: #b45309;
+  --danger: #c2413a;
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-navy: var(--navy);
+  --color-navy-light: var(--navy-light);
+  --color-brand-orange: var(--orange);
+  --color-brand-orange-dark: var(--orange-dark);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --font-sans: var(--font-manrope);
+  --font-mono: var(--font-plex-mono);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--canvas);
+}
+
+body {
+  margin: 0;
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-manrope), sans-serif;
+}
+
+button,
+a,
+input,
+select,
+textarea {
+  outline-color: var(--orange);
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: #fed7aa;
+  color: var(--navy);
+}
+
+.route-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.045) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.admin-light-grid {
+  background-image:
+    linear-gradient(rgba(0, 45, 95, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 45, 95, 0.035) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: 0 12px 35px rgba(15, 35, 64, 0.055);
+}
+
+.admin-console {
+  --line: #cbd5e1;
+  --canvas: #f1f5f9;
+  background-color: #f1f5f9;
+  background-image:
+    linear-gradient(rgba(15, 35, 64, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 35, 64, 0.025) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.admin-console .panel {
+  border-color: #c4ced9;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(7, 17, 31, 0.08);
+}
+
+.admin-console .admin-service-panel {
+  border-color: #bfdbfe;
+  background: rgba(239, 246, 255, 0.78);
+}
+
+.admin-console main h1 {
+  font-family: var(--font-plex-mono), monospace;
+  font-size: clamp(1.35rem, 2vw, 1.75rem);
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+}
+
+.admin-console table thead {
+  border-block: 1px solid #c4ced9;
+  background: #dce3ea;
+  color: #475569;
+  font-family: var(--font-plex-mono), monospace;
+}
+
+.admin-console table tbody tr:hover {
+  background: #f1f5f9;
+}
+
+.page-enter {
+  animation: page-enter 480ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.stagger > * {
+  animation: page-enter 480ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.stagger > *:nth-child(2) { animation-delay: 60ms; }
+.stagger > *:nth-child(3) { animation-delay: 120ms; }
+.stagger > *:nth-child(4) { animation-delay: 180ms; }
+
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

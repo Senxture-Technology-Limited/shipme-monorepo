@@ -4,7 +4,7 @@ This repository will consolidate the Shipme web, admin, CMS, and core API codeba
 
 ## Workspace
 
-- `apps/landing-web` - public marketing and quote website, migrated from `../shipme-web-vite`
+- `apps/landing-vite` - public marketing and quote website, migrated from `../shipme-web-vite`
 - `apps/dashboard-web` - revamped customer/admin dashboard website, based on `../shipme-nextjs`
 - `apps/core-api` - revamped core Shipme API/CMS, based on `../shipme-strapi`
 - `apps/invoice-api` - revamped invoice API, based on `../shipme-go`

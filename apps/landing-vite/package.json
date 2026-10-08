@@ -1,5 +1,5 @@
 {
-  "name": "@shipme/landing-web",
+  "name": "@shipme/landing-vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",

@@ -48,7 +48,7 @@ importers:
         specifier: ^5
         version: 5.9.3
 
-  apps/landing-web:
+  apps/landing-vite:
     dependencies:
       countries-list:
         specifier: ^3.2.0

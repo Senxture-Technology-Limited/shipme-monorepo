@@ -31,7 +31,7 @@ Plan:
 
 - Keep most of this app.
 - Move it first because it is the lowest-risk app and closest to current frontend tooling.
-- Rename package to `@shipme/landing-web`.
+- Rename package to `@shipme/landing-vite`.
 - Recover missing static assets before production cutover.
 - Keep the Vite setup initially; do not convert it to Next.js unless there is a product reason.
 
@@ -106,7 +106,7 @@ shipme-monorepo/
     plan/
       2026-07-01-shipme-monorepo-revamp.md
   apps/
-    landing-web/
+    landing-vite/
     dashboard-web/
     core-api/
     invoice-api/
@@ -118,7 +118,7 @@ shipme-monorepo/
 
 Workspace roles:
 
-- `apps/landing-web`: public Vite website, migrated from `../shipme-web-vite`, with package name `@shipme/landing-web`.
+- `apps/landing-vite`: public Vite website, migrated from `../shipme-web-vite`, with package name `@shipme/landing-vite`.
 - `apps/dashboard-web`: revamped customer/admin dashboard website, based on `../shipme-nextjs`.
 - `apps/core-api`: revamped core Shipme API/CMS, based on `../shipme-strapi`.
 - `apps/invoice-api`: revamped invoice API, based on `../shipme-go`.
@@ -153,8 +153,8 @@ Verification:
 
 Work:
 
-- Copy `../shipme-web-vite` into `apps/landing-web`.
-- Rename package to `@shipme/landing-web`.
+- Copy `../shipme-web-vite` into `apps/landing-vite`.
+- Rename package to `@shipme/landing-vite`.
 - Convert npm lockfile to pnpm by installing from the monorepo root.
 - Keep Vite, React, TypeScript, Tailwind, i18n, routing, and quote flow.
 - Recover missing public assets.
@@ -162,8 +162,8 @@ Work:
 
 Verification:
 
-- `pnpm --filter @shipme/landing-web dev` boots locally.
-- `pnpm --filter @shipme/landing-web build` succeeds.
+- `pnpm --filter @shipme/landing-vite dev` boots locally.
+- `pnpm --filter @shipme/landing-vite build` succeeds.
 - Home, about, services, contact, and quote pages render with assets.
 - Quote flow still calls the intended Strapi endpoint per environment.
 
@@ -256,7 +256,7 @@ Verification:
 ## Immediate Next Steps
 
 1. Run `pnpm install` in the new monorepo.
-2. Migrate `shipme-web-vite` into `apps/landing-web` first.
+2. Migrate `shipme-web-vite` into `apps/landing-vite` first.
 3. Add a short API contract inventory for Strapi and Go before revamping those services.
 4. Create smoke tests before upgrading or replacing old frameworks.
 5. Migrate one deployable unit at a time instead of copying all repos at once.
